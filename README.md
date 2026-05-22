@@ -2,7 +2,7 @@
 
 A statistical analysis of NOAA's billion-dollar weather and climate disasters in the United States from 1980 to 2024.
 
-**[View Live Dashboard on Tableau Public]([https://public.tableau.com/app/profile/thomas.kirvin/viz/Book2_17794238190500/Dashboard1?publish=yes])**
+**[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/thomas.kirvin/viz/Book2_17794238190500/Dashboard1?publish=yes)**
 
 ![Dashboard Screenshot](tableau/disasters_screenshot.png)
 
