@@ -4,7 +4,7 @@ A statistical analysis of NOAA's billion-dollar weather and climate disasters in
 
 **[View Live Dashboard on Tableau Public]([https://public.tableau.com/app/profile/thomas.kirvin/viz/Book2_17794238190500/Dashboard1?publish=yes])**
 
-![Dashboard Screenshot](tableau/dashboard_screenshot.png)
+![Dashboard Screenshot](tableau/disasters_screenshot.png)
 
 ## Question
 
